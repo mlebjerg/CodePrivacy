@@ -1,0 +1,51 @@
+.blue-bar {
+
+  width: 1920px;
+
+  height: 80px;
+
+  border: solid 1px #707070;
+
+  background-color: #161c89;
+
+}
+
+.spion-logo {
+
+  width: 185px;
+
+  height: 34px;
+
+  object-fit: contain;
+
+  color: white;
+
+}
+
+.navbar-text {
+
+  width: 263px;
+
+  height: 33px;
+
+  font-family: Arial;
+
+  font-size: 30px;
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: 1.13;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+
+}
+
+
