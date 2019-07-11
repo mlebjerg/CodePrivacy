@@ -1,1 +1,26 @@
-<div>& This is the footer</div>
+{% extends "layout.html" %}
+{% block content %}
+
+<link rel="stylesheet" type="text/css" href="static/css/footer.css">
+
+<nav class="navbar, footer-black">
+    <div class="container-fluid">
+         <div class="row">
+        <div class="col-6" style="margin-top:10px;">
+    <img src="static/img/spionsmall.svg" class="spion-logo, navbar-brand">
+    </div>
+    <div class="col-2" style="margin-top:12.5px;">
+    <a class="nav-link, navbar-text" href="terms_and_condition.html">terms_and_condition</a>
+</div>
+        <div class="col-2" style="margin-top:12.5px;">
+    <a class="nav-link, navbar-text" href="privacy_policy.html">privacy_policy</a>
+        </div>
+        <div class="col-2" style="margin-top:12.5px;">
+    <a class="nav-link, navbar-text" href="imprint.html">imprint</a>
+        </div>
+
+    </div>
+    </div>
+
+</nav>
+{% endblock %}

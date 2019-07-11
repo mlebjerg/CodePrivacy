@@ -1,22 +1,10 @@
-.blue-bar {
+.footer-black {
 
-  height: 80px;
+  height: 70px;
 
   border: solid 1px #707070;
 
-  background-color: #161c89;
-
-}
-
-.spion-logo {
-
-  width: 185px;
-
-  height: 34px;
-
-  object-fit: contain;
-
-  color: white;
+  background-color: #212121;
 
 }
 
@@ -28,7 +16,7 @@
 
   font-family: Arial;
 
-  font-size: 30px;
+  font-size: 20px;
 
   font-weight: bold;
 
@@ -46,4 +34,15 @@
 
 }
 
+.spion-logo {
+
+  width: 185px;
+
+  height: 24px;
+
+  object-fit: contain;
+
+  color: white;
+
+}
 
