@@ -26,3 +26,9 @@ def assistants():
 def info_alexa():
 
     return render_template('info_alexa.html')
+
+
+@app.route('/cookies', methods=['GET'])
+def cookies():
+
+    return render_template('cookies.html')
