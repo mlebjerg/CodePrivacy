@@ -1,0 +1,36 @@
+.text-size
+{
+    height: 34px;
+}
+
+.img-css {
+
+  width: 960px;
+
+  height: 993px;
+
+  object-fit: contain;
+
+}
+
+.title-article {
+
+  font-family: Arial;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: 1.13;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: black;
+
+}
